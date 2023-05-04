@@ -1,0 +1,65 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+    <head>
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        <title>Toronto Raptors</title>
+        <link rel="icon" type="image/ico" href="../images/nba.png">
+		<link rel="stylesheet" type="text/css" href="../styles/normalize.css">
+        <link rel="stylesheet" type="text/css" href="../styles/toronto.css">
+        
+    </head>
+    
+   <body>
+    	
+    	<section id="page"> <!-- Defining the #page section with the section tag -->
+    
+            <header> <!-- Defining the header section of the page with the appropriate tag -->
+            
+                <hgroup>
+					<h1>Toronto Raptors</h1>
+					<h3>Lorem ipsum dolor sit amet</h3>
+				</hgroup>
+                                
+                
+            
+            </header>
+            
+            
+
+				<!-- Article start -->
+
+                <div class="line"></div>  <!-- Dividing line -->
+                
+				<h2>Toronto Raptors</h2>
+				
+				<aside class="sidenav">
+				<h3>Ball</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus quam quis nibh fringilla sit amet consectetur lectus malesuada. Sed nec libero erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisi, rhoncus ut vestibulum ac, sollicitudin quis lorem. Duis felis dui, vulputate nec adipiscing nec, interdum vel tortor. Sed gravida, erat nec rutrum tincidunt, metus mauris imperdiet nunc, et elementum tortor nunc at eros. Donec malesuada congue molestie. Suspendisse potenti. Vestibulum cursus congue sem et feugiat. Morbi quis elit odio.</p>	
+				</aside>
+				
+				
+                <article id="Raptors"> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
+						
+						
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus quam quis nibh fringilla sit amet consectetur lectus malesuada. Sed nec libero erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus quam quis nibh fringilla sit amet consectetur lectus malesuada. Sed nec libero erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus quam quis nibh fringilla sit amet consectetur lectus malesuada. Sed nec libero erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus quam quis nibh fringilla sit amet consectetur lectus malesuada. Sed nec libero erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mi nisi, rhoncus ut vestibulum ac, sollicitudin quis lorem. Duis felis dui, vulputate nec adipiscing nec, interdum vel tortor. Sed gravida, erat nec rutrum tincidunt, metus mauris imperdiet nunc, et elementum tortor nunc at eros. Donec malesuada congue molestie. Suspendisse potenti. Vestibulum cursus congue sem et feugiat. Morbi quis elit odio. </p>
+                    </div>
+				
+                </article>
+	
+
+        <footer> <!-- Marking the footer section -->
+
+           <div class="line"></div>
+           
+           <p>Copyright 2015 - www.creedthoughts.gov.www\creedthoughts.</p> <!-- Change the copyright notice -->
+         
+        </footer>
+            
+		</section> <!-- Closing the #page section -->
+        
+    </body>
+</html>
